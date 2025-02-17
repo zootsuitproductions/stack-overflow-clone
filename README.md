@@ -71,17 +71,3 @@ A class diagram for the schema definition is shown below:
 | /resetPassword | PATCH  | Reset user password            |
 | /getUser/      | GET    | Fetch user details by username |
 | /deleteUser/   | DELETE | Delete a user by username      |
-
-## Running Stryker Mutation Testing
-
-Mutation testing helps you measure the effectiveness of your tests by introducing small changes (mutations) to your code and checking if your tests catch them. To run mutation testing with Stryker, use the following command in `server/`:
-
-```sh
-npm run stryker
-```
-
-{ : .note } In case you face an "out of memory" error while running Stryker, use the following command to increase the memory allocation to 4GB for Node.js:
-
-```sh
-node --max-old-space-size=4096 ./node_modules/.bin/stryker run
-```
