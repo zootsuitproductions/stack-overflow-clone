@@ -1,3 +1,22 @@
+This project is a user management service for Zoot Suit Productions. It provides a set of APIs to handle user-related operations such as creating a new user, retrieving user details, updating user information, deleting a user, and authenticating a user.
+
+## Features
+
+- **Create User**: Save a new user to the database.
+- **Retrieve User**: Fetch user details by username.
+- **Update User**: Update user information in the database.
+- **Delete User**: Remove a user from the database by their username.
+- **Authenticate User**: Verify user credentials for login.
+
+## Technologies Used
+
+- **Node.js**: JavaScript runtime environment.
+- **Express.js**: Web framework for Node.js.
+- **MongoDB**: NoSQL database for storing user data.
+- **Mongoose**: ODM (Object Data Modeling) library for MongoDB and Node.js.
+- **TypeScript**: Typed superset of JavaScript that compiles to plain JavaScript.
+
+
 ## Database Architecture
 
 The schemas for the database are documented in the directory `server/models/schema`.
