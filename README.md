@@ -1,4 +1,4 @@
-This project is a user management service for Zoot Suit Productions. It provides a set of APIs to handle user-related operations such as creating a new user, retrieving user details, updating user information, deleting a user, and authenticating a user.
+This project is a user management service for a community messaging app like stack overflow. It provides a set of APIs to handle user-related operations such as creating a new user, retrieving user details, updating user information, deleting a user, and authenticating a user.
 
 ## Features
 
