@@ -10,12 +10,11 @@ This project is a user management service for a community messaging app like sta
 
 ## Technologies Used
 
-- **Node.js**: JavaScript runtime environment.
-- **Express.js**: Web framework for Node.js.
-- **MongoDB**: NoSQL database for storing user data.
-- **Mongoose**: ODM (Object Data Modeling) library for MongoDB and Node.js.
-- **TypeScript**: Typed superset of JavaScript that compiles to plain JavaScript.
-
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **Mongoose**
+- **TypeScript**
 
 ## Database Architecture
 
