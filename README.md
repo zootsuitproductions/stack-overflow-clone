@@ -7,6 +7,15 @@ This project is a user management service for a community messaging app like sta
 - **Update User**: Update user information in the database.
 - **Delete User**: Remove a user from the database by their username.
 - **Authenticate User**: Verify user credentials for login.
+- **Login**: Allow users to log in to the application.
+- **Fetch Messages**: Retrieve all messages in descending order of their date and time.
+- **Reset Password**: Allow users to reset their password.
+- **Create Question**: Save a new question to the database.
+- **Create Answer**: Save a new answer to a question in the database.
+- **Fetch Questions**: Retrieve questions by filter or by ID.
+- **Upvote/Downvote Question**: Allow users to upvote or downvote a question.
+- **Add Comment**: Enable users to add comments to questions or answers.
+- **Fetch Tags**: Retrieve tags along with the number of questions associated with them.
 
 ## Technologies Used
 
